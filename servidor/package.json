@@ -1,0 +1,8 @@
+{
+  "name": "ensenada-frontera-servidor",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server/index.mjs" },
+  "dependencies": { "ws": "^8.22.2" },
+  "engines": { "node": ">=20" }
+}
